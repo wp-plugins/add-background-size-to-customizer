@@ -3,11 +3,12 @@ Contributors: cmborchert
 Tags: background, image, customizer, appearance, css
 Requires at least: 3.4.0
 Tested up to: 4.2.3
+Stable tag: trunk
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Adds a background-size controller to the Background Image section in the Wordpress Appearance Customizer. 
-You may select an option for the background-size property or input your own value which will be applied to the custom background image you upload.
+Allows you to control the background-size of your main background image from the comfort of the customizer, using predetermined values or custom CSS.
+
 == Description ==
 This plugin for Wordpress adds a background-size controller to the Background Image section in the Wordpress Customizer. 
 
